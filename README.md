@@ -13,8 +13,8 @@ It is mainly for **practice and learning purposes**. ✨
 
 ### 📖 Chapter 1: Introduction to Java  
 - **TaskSheet 1-1-1:** Print "Hello World!"  
-- **TaskSheet 1-2-2:** Arithmetic Task (Compound assignments)  
-
+- **TaskSheet 1-1-2:** Arithmetic Task (Compound assignments)  
+- **TaskSheet 1-1-3:** Odd or Even Checker
 ---
 
 ## ▶️ How to Run  
