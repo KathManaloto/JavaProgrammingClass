@@ -11,6 +11,12 @@ It is mainly for **practice and learning purposes**. ✨
 
 ---
 
+### 📖 Chapter 1: Introduction to Java  
+- **TaskSheet 1-1-1:** Print "Hello World!"  
+- **TaskSheet 1-2-2:** Arithmetic Task (Compound assignments)  
+
+---
+
 ## ▶️ How to Run  
 
 1. Compile the Java file:  
