@@ -19,7 +19,7 @@ It is mainly for **practice and learning purposes**. ✨
 
 ### 📖 Chapter 1: Introduction to Java  
 - **TaskSheet 1-2-1:** Methods and Encapsulation
-
+- **Task 2:** Concatenate multiple data types
 ## ▶️ How to Run  
 
 1. Compile the Java file:  
