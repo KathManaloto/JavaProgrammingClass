@@ -17,6 +17,9 @@ It is mainly for **practice and learning purposes**. ✨
 - **TaskSheet 1-1-3:** Odd or Even Checker
 ---
 
+### 📖 Chapter 1: Introduction to Java  
+- **TaskSheet 1-2-1:** Methods and Encapsulation
+
 ## ▶️ How to Run  
 
 1. Compile the Java file:  
