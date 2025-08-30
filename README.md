@@ -11,15 +11,18 @@ It is mainly for **practice and learning purposes**. ✨
 
 ---
 
-### 📖 Chapter 1: Introduction to Java  
+### 📖 Chapter 1: 
 - **TaskSheet 1-1-1:** Print "Hello World!"  
 - **TaskSheet 1-1-2:** Arithmetic Task (Compound assignments)  
 - **TaskSheet 1-1-3:** Odd or Even Checker
 ---
 
-### 📖 Chapter 1: Introduction to Java  
+### 📖 Chapter 2:  
 - **TaskSheet 1-2-1:** Methods and Encapsulation
 - **Task 2:** Concatenate multiple data types
+- **Task 3:** If Statements
+---
+
 ## ▶️ How to Run  
 
 1. Compile the Java file:  
