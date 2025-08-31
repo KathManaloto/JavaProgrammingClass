@@ -27,6 +27,7 @@ It is mainly for **practice and learning purposes**. ✨
 - **TaskSheet 1-3-1:** Inheritance and Polymorphism
 - **Task 4:** StringBuilder
 - **Task 5:** ArrayList and Handling Exceptions
+- **Task 6:** For Loops
 ---
 
 ## ▶️ How to Run  
