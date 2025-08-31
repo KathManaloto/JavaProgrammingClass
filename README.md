@@ -23,6 +23,10 @@ It is mainly for **practice and learning purposes**. ✨
 - **Task 3:** If Statements
 ---
 
+### 📖 Chapter 3:  
+- **TaskSheet 1-3-1:** Inheritance and Polymorphism
+---
+
 ## ▶️ How to Run  
 
 1. Compile the Java file:  
