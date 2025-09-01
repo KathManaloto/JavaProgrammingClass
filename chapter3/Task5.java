@@ -28,5 +28,6 @@ public class Task5 {
         } catch(InputMismatchException e){
             System.out.println("Invalid input! Please enter integers only.");
         }
+        sc.close();
     }
 }
