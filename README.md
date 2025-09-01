@@ -34,7 +34,8 @@ It is mainly for **practice and learning purposes**. ✨
 - **Task 7:** Arithmetic Operations
 - **Task 8:** Integer Variable Argument Methods
 - **Task 9:** Math Operations with static import
-- **Task 10:** Arrays and Constructors
+- **Task 10:** Arrays
+- **Task 11:** Constructors
 ---
 
 ## ▶️ How to Run  
