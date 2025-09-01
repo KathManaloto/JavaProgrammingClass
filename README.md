@@ -30,6 +30,10 @@ It is mainly for **practice and learning purposes**. ✨
 - **Task 6:** For Loops
 ---
 
+### 📖 Chapter 4:  
+- **Task 7:** Arithmetic Operations
+---
+
 ## ▶️ How to Run  
 
 1. Compile the Java file:  
