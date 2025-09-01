@@ -33,6 +33,7 @@ It is mainly for **practice and learning purposes**. ✨
 ### 📖 Chapter 4:  
 - **Task 7:** Arithmetic Operations
 - **Task 8:** Integer Variable Argument Methods
+- **Task 9:** Math Operations with static import
 ---
 
 ## ▶️ How to Run  
