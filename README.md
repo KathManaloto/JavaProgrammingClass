@@ -42,6 +42,7 @@ It is mainly for **practice and learning purposes**. ✨
 - **Task 12:** Point Scale
 - **Task 13:** Constructors and Inheritance
 - **Task 14:** Abstract Classes and Methods
+- **Task 15:** Abstract Classes and Interfaces
 ---
 
 ## ▶️ How to Run  
