@@ -41,6 +41,7 @@ It is mainly for **practice and learning purposes**. ✨
 ### 📖 Chapter 5:
 - **Task 12:** Point Scale
 - **Task 13:** Constructors and Inheritance
+- **Task 14:** Abstract Classes and Methods
 ---
 
 ## ▶️ How to Run  
