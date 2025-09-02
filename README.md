@@ -38,6 +38,10 @@ It is mainly for **practice and learning purposes**. ✨
 - **Task 11:** Constructors
 ---
 
+### 📖 Chapter 5:
+- **Task 12:** Point Scale
+---
+
 ## ▶️ How to Run  
 
 1. Compile the Java file:  
