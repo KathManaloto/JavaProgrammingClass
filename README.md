@@ -51,6 +51,7 @@ It is mainly for **practice and learning purposes**. ✨
 
 ### 📖 PROGRAMMING CHALLENGES
 - **Assignment#1:** If-Else Statements: Generate the student’s grade from their test results.
+- **Assignment#2:** If-else and Switch Statements: Input a month number (1–12) and output the month’s name and its number of days.
 ---
 
 ## ▶️ How to Run  
