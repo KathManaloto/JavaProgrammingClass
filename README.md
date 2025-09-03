@@ -49,6 +49,10 @@ It is mainly for **practice and learning purposes**. ✨
 - **Task 16:** Interfaces
 ---
 
+### 📖 PROGRAMMING CHALLENGES
+- **Assignment#1:** If-Else Statements: Generate the student’s grade from their test results.
+---
+
 ## ▶️ How to Run  
 
 1. Compile the Java file:  
