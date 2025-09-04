@@ -53,6 +53,8 @@ It is mainly for **practice and learning purposes**. ✨
 - **Assignment#1:** Generate the student’s grade from their test results.
 - **Assignment#2:** Input a month number (1–12) and output the month’s name and its number of days.
 - **Assignment#3:** Type a number from 1 to 7, and the program will tell you which day of the week it is.
+- **Assignment#4:** Check if a certain number is Odd/Even, Positive/Negative or Zero.
+
 ---
 
 ## ▶️ How to Run  
