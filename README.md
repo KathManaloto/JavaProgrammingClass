@@ -54,7 +54,7 @@ It is mainly for **practice and learning purposes**. ✨
 - **Assignment#2:** Input a month number (1–12) and output the month’s name and its number of days.
 - **Assignment#3:** Type a number from 1 to 7, and the program will tell you which day of the week it is.
 - **Assignment#4:** Check if a certain number is Odd/Even, Positive/Negative or Zero.
-
+- **Assignment#5:** Calculate the sum of all integer inputs.
 ---
 
 ## ▶️ How to Run  
