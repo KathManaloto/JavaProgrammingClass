@@ -1,5 +1,5 @@
 //Number to month(1-12) and print number of days of that month
-package programmingChallenge;
+package programmingChallenges;
 
 import java.util.Scanner;
 

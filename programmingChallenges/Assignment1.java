@@ -1,5 +1,5 @@
 //Score to Grade F-A: This program will output the grade of the students based on their test scores. 
-package programmingChallenge;
+package programmingChallenges;
 
 import java.util.Scanner;
 
