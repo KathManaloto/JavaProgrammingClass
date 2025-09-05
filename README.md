@@ -56,6 +56,7 @@ It is mainly for **practice and learning purposes**. ✨
 - **Assignment#4:** Check if a certain number is Odd/Even, Positive/Negative or Zero.
 - **Assignment#5:** Calculate the sum of all integer inputs.
 - **Assignment#6:** Integer input from the user and uses a for loop to generate a pattern.
+- **Assignment#7:** Multiplication table 10x10
 ---
 
 ## ▶️ How to Run  
