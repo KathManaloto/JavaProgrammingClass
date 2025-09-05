@@ -55,6 +55,7 @@ It is mainly for **practice and learning purposes**. ✨
 - **Assignment#3:** Type a number from 1 to 7, and the program will tell you which day of the week it is.
 - **Assignment#4:** Check if a certain number is Odd/Even, Positive/Negative or Zero.
 - **Assignment#5:** Calculate the sum of all integer inputs.
+- **Assignment#6:** Integer input from the user and uses a for loop to generate a pattern.
 ---
 
 ## ▶️ How to Run  
