@@ -57,6 +57,8 @@ It is mainly for **practice and learning purposes**. ✨
 - **Assignment#5:** Calculate the sum of all integer inputs.
 - **Assignment#6:** Integer input from the user and uses a for loop to generate a pattern.
 - **Assignment#7:** Multiplication table 10x10
+- **Assignment#8:** Different String methods
+
 ---
 
 ## ▶️ How to Run  
