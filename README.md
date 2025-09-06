@@ -60,7 +60,7 @@ It is mainly for **practice and learning purposes**. ✨
 - **Assignment#8:** Different String methods
 - **Assignment#9:** Vowel and Consonant Checker
 - **Assignment#10:** Count the number of words in an input
-
+- **Assignment#11:** StringBuilder Operations
 ---
 
 ## ▶️ How to Run  
