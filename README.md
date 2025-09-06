@@ -58,7 +58,7 @@ It is mainly for **practice and learning purposes**. ✨
 - **Assignment#6:** Integer input from the user and uses a for loop to generate a pattern.
 - **Assignment#7:** Multiplication table 10x10
 - **Assignment#8:** Different String methods
-
+- **Assignment#9:** Vowel and Consonant Checker
 ---
 
 ## ▶️ How to Run  
