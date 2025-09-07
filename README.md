@@ -61,6 +61,7 @@ It is mainly for **practice and learning purposes**. ✨
 - **Assignment#9:** Vowel and Consonant Checker
 - **Assignment#10:** Count the number of words in an input
 - **Assignment#11:** StringBuilder Operations
+- **Assignment#12:** Sum and average  of input array numbers
 ---
 
 ## ▶️ How to Run  
